@@ -1,0 +1,70 @@
+GIT
+  remote: https://github.com/everypolitician/scraped.git
+  revision: c458dd2601a7f1e9596c7c60cf375fee44c3604d
+  specs:
+    scraped (0.6.1)
+      field_serializer (>= 0.3.0)
+      nokogiri
+      require_all
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ast (2.4.1)
+    coderay (1.1.1)
+    field_serializer (0.3.0)
+    kwalify (0.7.2)
+    method_source (0.8.2)
+    mini_portile2 (2.1.0)
+    nokogiri (1.7.1)
+      mini_portile2 (~> 2.1.0)
+    open-uri-cached (0.0.5)
+    parallel (1.19.2)
+    parser (2.7.2.0)
+      ast (~> 2.4.1)
+    pry (0.10.4)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
+    psych (3.1.0)
+    rainbow (3.0.0)
+    rake (13.0.1)
+    reek (6.0.1)
+      kwalify (~> 0.7.0)
+      parser (>= 2.5.0.0, < 2.8, != 2.5.1.1)
+      psych (~> 3.1.0)
+      rainbow (>= 2.0, < 4.0)
+    regexp_parser (1.8.1)
+    require_all (1.4.0)
+    rexml (3.2.4)
+    rubocop (0.93.0)
+      parallel (~> 1.10)
+      parser (>= 2.7.1.5)
+      rainbow (>= 2.2.2, < 4.0)
+      regexp_parser (>= 1.8)
+      rexml
+      rubocop-ast (>= 0.6.0)
+      ruby-progressbar (~> 1.7)
+      unicode-display_width (>= 1.4.0, < 2.0)
+    rubocop-ast (0.7.1)
+      parser (>= 2.7.1.5)
+    ruby-progressbar (1.10.1)
+    slop (3.6.0)
+    unicode-display_width (1.7.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  open-uri-cached
+  pry
+  rake
+  reek (~> 6.0)
+  rubocop (~> 0.89)
+  scraped!
+
+RUBY VERSION
+   ruby 2.6.6p146
+
+BUNDLED WITH
+   1.17.2
