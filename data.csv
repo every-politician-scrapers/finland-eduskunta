@@ -39,7 +39,6 @@ id,name,group,district
 1398,Johan Kvarnström,Social Democratic Parliamentary Group,Uusimaa
 1379,Mia Laiho,Parliamentary Group of the National Coalition Party,Uusimaa
 1343,Antero Laukkanen,Christian Democratic Parliamentary Group,Uusimaa
-1279,Elina Lepomäki,Parliamentary Group of the National Coalition Party,Uusimaa
 1147,Antti Lindtman,Social Democratic Parliamentary Group,Uusimaa
 1399,Pia Lohikoski,Left Alliance Parliamentary Group,Uusimaa
 1349,Leena Meri,The Finns Party Parliamentary Group,Uusimaa
@@ -54,6 +53,7 @@ id,name,group,district
 1395,Ruut Sjöblom,Parliamentary Group of the National Coalition Party,Uusimaa
 1393,Riikka Slunga-Poutsalo,The Finns Party Parliamentary Group,Uusimaa
 1118,Kari Tolvanen,Parliamentary Group of the National Coalition Party,Uusimaa
+1279,Elina Valtonen,Parliamentary Group of the National Coalition Party,Uusimaa
 414,Matti Vanhanen,Centre Party Parliamentary Group,Uusimaa
 1396,Heikki Vestman,Parliamentary Group of the National Coalition Party,Uusimaa
 1397,Hussein al-Taee,Social Democratic Parliamentary Group,Uusimaa
@@ -163,7 +163,6 @@ id,name,group,district
 1105,Janne Sankelo,Parliamentary Group of the National Coalition Party,Vaasa
 1106,Mikko Savola,Centre Party Parliamentary Group,Vaasa
 1318,Joakim Strand,Swedish Parliamentary Group,Vaasa
-808,Jutta Urpilainen,Social Democratic Parliamentary Group,Vaasa
 1141,Peter Östman,Christian Democratic Parliamentary Group,Vaasa
 1445,Bella Forsgrén,Green Parliamentary Group,Central Finland
 1331,Petri Honkonen,Centre Party Parliamentary Group,Central Finland
