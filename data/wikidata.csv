@@ -5,19 +5,19 @@ id,name,group,district
 1097,Aino-Kaisa Pekonen,Left Alliance Parliamentary Group,Häme
 1408,Aki Lindén,Social Democratic Parliamentary Group,Varsinais-Suomi
 1306,Anders Adlercreutz,Swedish Parliamentary Group,Uusimaa
-1440,Anders Norrback,Swedish Parliamentary Group,Vaasa electoral district
+1440,Anders Norrback,Swedish Parliamentary Group,Vaasa
 1155,Anna Kontula,Left Alliance Parliamentary Group,Pirkanmaa
 1421,Anna-Kaisa Ikonen,Parliamentary Group of the National Coalition Party,Pirkanmaa
-941,Anna-Maja Henriksson,Swedish Parliamentary Group,Vaasa electoral district
+941,Anna-Maja Henriksson,Swedish Parliamentary Group,Vaasa
 953,Anne Kalmari,Centre Party Parliamentary Group,Central Finland
 948,Anne-Mari Virolainen,Parliamentary Group of the National Coalition Party,Varsinais-Suomi
 791,Anneli Kiljunen,Social Democratic Parliamentary Group,Southeast Finland
 1157,Annika Saarikko,Centre Party Parliamentary Group,Varsinais-Suomi
-1427,Ano Turtiainen,Ano Turtiainen Parliamentary Group,Southeast Finland
+1427,Ano Turtiainen,Parliamentary Group Power Belongs to the People,Southeast Finland
 1343,Antero Laukkanen,Christian Democratic Parliamentary Group,Uusimaa
 1334,Antti Häkkänen,Parliamentary Group of the National Coalition Party,Southeast Finland
 772,Antti Kaikkonen,Centre Party Parliamentary Group,Uusimaa
-1341,Antti Kurvinen,Centre Party Parliamentary Group,Vaasa electoral district
+1341,Antti Kurvinen,Centre Party Parliamentary Group,Vaasa
 1147,Antti Lindtman,Social Democratic Parliamentary Group,Uusimaa
 1274,Antti Rinne,Social Democratic Parliamentary Group,Uusimaa
 508,Anu Vehviläinen,Centre Party Parliamentary Group,Savo-Karelia
@@ -57,14 +57,14 @@ id,name,group,district
 1098,Jaana Pelkonen,Parliamentary Group of the National Coalition Party,Helsinki
 1301,Jani Mäkelä,The Finns Party Parliamentary Group,Southeast Finland
 1454,Janne Heikkinen,Parliamentary Group of the National Coalition Party,Oulu
-1105,Janne Sankelo,Parliamentary Group of the National Coalition Party,Vaasa electoral district
+1105,Janne Sankelo,Parliamentary Group of the National Coalition Party,Vaasa
 1413,Jari Koskela,The Finns Party Parliamentary Group,Satakunta
 582,Jari Leppä,Centre Party Parliamentary Group,Southeast Finland
 1154,Jari Myllykoski,Left Alliance Parliamentary Group,Satakunta
 1308,Jari Ronkainen,The Finns Party Parliamentary Group,Häme
 1450,Jenna Simula,The Finns Party Parliamentary Group,Oulu
 1449,Jenni Pitko,Green Parliamentary Group,Oulu
-1318,Joakim Strand,Swedish Parliamentary Group,Vaasa electoral district
+1318,Joakim Strand,Swedish Parliamentary Group,Vaasa
 1398,Johan Kvarnström,Social Democratic Parliamentary Group,Uusimaa
 971,Johanna Ojala-Niemelä,Social Democratic Parliamentary Group,Lapland
 358,Johannes Koskinen,Social Democratic Parliamentary Group,Häme
@@ -72,7 +72,7 @@ id,name,group,district
 1446,Joonas Könttä,Centre Party Parliamentary Group,Central Finland
 1448,Jouni Kotiaho,The Finns Party Parliamentary Group,Central Finland
 1422,Jouni Ovaska,Centre Party Parliamentary Group,Pirkanmaa
-1437,Juha Mäenpää,The Finns Party Parliamentary Group,Vaasa electoral district
+1437,Juha Mäenpää,The Finns Party Parliamentary Group,Vaasa
 1305,Juha Pylväs,Centre Party Parliamentary Group,Oulu
 1108,Juha Sipilä,Centre Party Parliamentary Group,Oulu
 1330,Juhana Vartiainen,Parliamentary Group of the National Coalition Party,Helsinki
@@ -80,7 +80,7 @@ id,name,group,district
 1444,Juho Kautto,Left Alliance Parliamentary Group,Central Finland
 116,Jukka Gustafsson,Social Democratic Parliamentary Group,Pirkanmaa
 1142,Jukka Kopra,Parliamentary Group of the National Coalition Party,Southeast Finland
-1438,Jukka Mäkynen,The Finns Party Parliamentary Group,Vaasa electoral district
+1438,Jukka Mäkynen,The Finns Party Parliamentary Group,Vaasa
 1109,Jussi Halla-aho,The Finns Party Parliamentary Group,Helsinki
 1400,Jussi Saramo,Left Alliance Parliamentary Group,Uusimaa
 1436,Jussi Wihonen,The Finns Party Parliamentary Group,Savo-Karelia
@@ -91,7 +91,7 @@ id,name,group,district
 1276,Katja Hänninen,Left Alliance Parliamentary Group,Oulu
 952,Katja Taimela,Social Democratic Parliamentary Group,Varsinais-Suomi
 1340,Katri Kulmuni,Centre Party Parliamentary Group,Lapland
-1443,Kim Berg,Social Democratic Parliamentary Group,Vaasa electoral district
+1443,Kim Berg,Social Democratic Parliamentary Group,Vaasa
 464,Kimmo Kiljunen,Social Democratic Parliamentary Group,Uusimaa
 960,Krista Kiuru,Social Democratic Parliamentary Group,Satakunta
 1298,Krista Mikkonen,Green Parliamentary Group,Savo-Karelia
@@ -110,22 +110,22 @@ id,name,group,district
 1149,Markus Lohi,Centre Party Parliamentary Group,Lapland
 802,Markus Mustajärvi,Left Alliance Parliamentary Group,Lapland
 1265,Matias Marttinen,Parliamentary Group of the National Coalition Party,Satakunta
-1469,Matias Mäkynen,Social Democratic Parliamentary Group,Vaasa electoral district
+1469,Matias Mäkynen,Social Democratic Parliamentary Group,Vaasa
 1345,Mats Löfström,Swedish Parliamentary Group,Åland
 1315,Matti Semi,Left Alliance Parliamentary Group,Savo-Karelia
 414,Matti Vanhanen,Centre Party Parliamentary Group,Uusimaa
-1439,Mauri Peltokangas,The Finns Party Parliamentary Group,Vaasa electoral district
+1439,Mauri Peltokangas,The Finns Party Parliamentary Group,Vaasa
 963,Merja Kyllönen,Left Alliance Parliamentary Group,Oulu
 1087,Merja Mäkisalo-Ropponen,Social Democratic Parliamentary Group,Savo-Karelia
 1379,Mia Laiho,Parliamentary Group of the National Coalition Party,Uusimaa
 1133,Mika Kari,Social Democratic Parliamentary Group,Häme
-583,Mika Lintilä,Centre Party Parliamentary Group,Vaasa electoral district
+583,Mika Lintilä,Centre Party Parliamentary Group,Vaasa
 1092,Mika Niikko,The Finns Party Parliamentary Group,Uusimaa
 1453,Mikko Kinnunen,Centre Party Parliamentary Group,Oulu
 1348,Mikko Kärnä,Centre Party Parliamentary Group,Lapland
 1410,Mikko Lundén,The Finns Party Parliamentary Group,Varsinais-Suomi
-1441,Mikko Ollikainen,Swedish Parliamentary Group,Vaasa electoral district
-1106,Mikko Savola,Centre Party Parliamentary Group,Vaasa electoral district
+1441,Mikko Ollikainen,Swedish Parliamentary Group,Vaasa
+1106,Mikko Savola,Centre Party Parliamentary Group,Vaasa
 1435,Minna Reijonen,The Finns Party Parliamentary Group,Savo-Karelia
 1416,Mirka Soinikoski,Green Parliamentary Group,Häme
 1428,Niina Malm,Social Democratic Parliamentary Group,Southeast Finland
@@ -133,13 +133,13 @@ id,name,group,district
 1122,Olli Immonen,The Finns Party Parliamentary Group,Oulu
 914,Outi Alanko-Kahiluoto,Green Parliamentary Group,Helsinki
 917,Paavo Arhinmäki,Left Alliance Parliamentary Group,Helsinki
-1442,Pasi Kivisaari,Centre Party Parliamentary Group,Vaasa electoral district
-809,Paula Risikko,Parliamentary Group of the National Coalition Party,Vaasa electoral district
+1442,Pasi Kivisaari,Centre Party Parliamentary Group,Vaasa
+809,Paula Risikko,Parliamentary Group of the National Coalition Party,Vaasa
 1429,Paula Werning,Social Democratic Parliamentary Group,Southeast Finland
 1137,Pauli Kiuru,Parliamentary Group of the National Coalition Party,Pirkanmaa
 1452,Pekka Aittakumpu,Centre Party Parliamentary Group,Oulu
 118,Pekka Haavisto,Green Parliamentary Group,Helsinki
-1141,Peter Östman,Christian Democratic Parliamentary Group,Vaasa electoral district
+1141,Peter Östman,Christian Democratic Parliamentary Group,Vaasa
 1331,Petri Honkonen,Centre Party Parliamentary Group,Central Finland
 1467,Petri Huru,The Finns Party Parliamentary Group,Satakunta
 947,Petteri Orpo,Parliamentary Group of the National Coalition Party,Varsinais-Suomi
